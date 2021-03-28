@@ -1,1 +1,1 @@
-👋 Hi, I’m satish kumbhar(sats17).
+👋 Hi, I’m Satish Kumbhar(sats17)
