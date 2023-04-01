@@ -4,7 +4,7 @@ Hi 👋 My name is Satish Kumbhar
 Backend Developer
 -----------------
 
-Working as a Java Backend Developer. I’ve mostly worked professionally with Java and Spring boot, but also with Python, JavaScript(Node.js), Terraform and Some other DevOps tools.
+A highly skilled software developer with 4 years of experience in Java, Spring Boot, and Spring Framework, I have a strong background in both microservices and monolithic architectures. With expertise in automating AWS infrastructure creation using AWS CDK and Terraform, I possess a can-do attitude and consistently deliver results.
 
 * 🌍  I'm based in Mumbai
 * 🖥️  See my portfolio at [this](http://sats17.github.io)
