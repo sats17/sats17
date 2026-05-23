@@ -8,6 +8,7 @@ A highly skilled software developer with 4+ years of experience in Java, Spring 
 
 * 🌍  I'm based in Mumbai
 * 🖥️  See my portfolio at [this](http://sats17.github.io)
+* ✍️  See my blogs at [this](http://sats17.github.io/blogs)
 * ✉️  You can contact me at [satishkumbhar9999@gmail.com](mailto:satishkumbhar9999@gmail.com)
 
 ### Socials
