@@ -7,8 +7,7 @@ Backend Developer
 A highly skilled software developer with 6+ years of experience in Java, Spring, Spring Boot and Quarkus. I have a strong background in both microservices and monolithic architectures. With expertise in automating AWS Cloud infrastructure creation using AWS CDK and Terraform. I have an understanding of Kubernetes and it's related CNCF tools like helm, docker etc. I possess a can-do attitude and consistently deliver results.
 
 * 🌍  I'm based in Mumbai
-* 🖥️  See my portfolio at [this](http://sats17.github.io)
-* ✍️  See my blogs at [this](http://sats17.github.io/blogs)
+* 🖥️  See my blogs and notes at [this](http://sats17.github.io)
 * ✉️  You can contact me at [satishkumbhar9999@gmail.com](mailto:satishkumbhar9999@gmail.com)
 
 ### Socials
